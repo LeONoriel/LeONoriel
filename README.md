@@ -1,205 +1,317 @@
 
-<!-- ================================= -->
-<!-- ANIMATED GITHUB PROFILE -->
-<!-- ================================= -->
+<!-- ========================================= -->
+<!-- LEONORIEL | GITHUB DEVELOPER PROFILE      -->
+<!-- ========================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,50:432874,100:7c3aed&text=LeOMArk%20Nevado&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=IT%20Student%20%7C%20Aspiring%20Developer&descAlignY=60&descSize=18&animation=fadeIn&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,35:21143d,75:5b21b6,100:7c3aed&height=240&section=header&text=LeONoriel&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=IT%20STUDENT%20%7C%20ASPIRING%20DEVELOPER&descAlignY=60&descSize=16&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hello%2C+Welcome+to+my+GitHub!;Aspiring+Software+Developer;Web+%26+Application+Development;Always+Learning+Something+New;Turning+Ideas+Into+Reality" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=1000&color=C4B5FD&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Building+Ideas+Into+Reality.;Learning+%7C+Coding+%7C+Creating;Always+Growing+As+A+Developer."/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=LeONoriel&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7c3aed&label=PROFILE+VISITORS"/>
 
 </div>
 
 ---
 
-## 👋 About Me
+<div align="center">
 
-Hi! I'm **LeONoriel**, an Information Technology student from the Philippines 🇵🇭.
+## ✦ ABOUT ME ✦
 
-I'm interested in programming, software development, and creating applications that are both useful and user-friendly.
+</div>
 
-I enjoy exploring different technologies, solving problems, and improving my skills through personal and academic projects.
+Hello! I'm **LeONoriel**, an Information Technology student from the Philippines 🇵🇭.
 
-- 🎓 BS Information Technology Student
-- 💻 Interested in Web and Software Development
-- 🌱 Always learning and exploring new technologies
-- 🔨 Building projects and improving my coding skills
-- 🎯 Working towards becoming a skilled developer
-- 🎮 Gaming enthusiast
+I'm passionate about technology, programming, and building applications. I enjoy exploring different tools, learning new programming concepts, and turning ideas into functional projects.
+
+<table>
+<tr>
+<td width="50%">
+
+**🎓 Education**
+
+BS Information Technology
+
+**💻 Interests**
+
+Web & Software Development
+
+**🌱 Current Goal**
+
+Improving my programming skills
+
+</td>
+<td width="50%">
+
+**📍 Location**
+
+Philippines 🇵🇭
+
+**🚀 Focus**
+
+Building useful applications
+
+**🎮 Off-screen**
+
+Gaming and exploring technology
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💻 Technical Skills
+<div align="center">
 
-### Programming Languages
+## ✦ TECHNICAL ARSENAL ✦
+
+*Technologies and tools I work with*
+
+</div>
+
+### 💻 Programming Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,php,java,kotlin,cs&theme=dark"/>
 </p>
 
-### Frameworks & Development
+### ⚙️ Frameworks & Development
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=laravel,bootstrap,androidstudio&theme=dark"/>
 </p>
 
-### Database Management
+### 🗄️ Database & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
-</p>
-
-### Tools & Software
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,figma,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea,figma,postman&theme=dark"/>
 </p>
 
 ---
-
-## ⚡ Other Skills
-
-| Skill | Description |
-|---|---|
-| Problem Solving | Finding solutions to programming challenges |
-| Debugging | Identifying and fixing code errors |
-| UI Design | Creating clean and user-friendly interfaces |
-| Database Management | Working with databases and SQL |
-| Web Development | Building functional websites |
-| Adaptability | Learning new tools and technologies |
-| Teamwork | Collaborating on academic projects |
-
----
-
-## 🎯 Currently Learning
-
-- 🚀 Improving Laravel and PHP development
-- 🗄️ Exploring advanced SQL and database management
-- 📱 Improving Android application development
-- 🎨 Learning better UI/UX design practices
-- 💡 Writing cleaner and more maintainable code
-
----
-
-## 🎮 Hobbies & Interests
 
 <div align="center">
 
-| 🎮 Gaming | 💻 Coding |
-|:---:|:---:|
-| Playing PC and mobile games | Exploring new technologies |
-| Enjoying story-driven games | Building personal projects |
-
-| 🎨 Designing | 🔍 Exploring |
-|:---:|:---:|
-| Improving website interfaces | Learning new programming skills |
-| Experimenting with layouts | Discovering useful software |
+## ✦ SKILLS & EXPERTISE ✦
 
 </div>
 
-**Other interests:**
-- PC hardware and technology
-- Web and mobile application development
-- Software troubleshooting
-- UI/UX and creative design
+| Skill | What I Do |
+|:---|:---|
+| 🌐 Web Development | Creating functional websites |
+| 🗄️ Database Management | Working with MySQL and SQL |
+| 📱 App Development | Exploring Android applications |
+| 🎨 UI/UX Design | Designing clean interfaces |
+| 🔧 Debugging | Finding and fixing programming errors |
+| 🧩 Problem Solving | Understanding and solving technical challenges |
+| 🤝 Collaboration | Working on school and development projects |
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
 
-### 🕒 ChronosCare
-**Android Application**
+## ✦ CURRENTLY EXPLORING ✦
 
-A mobile application project focused on creating a useful and accessible application experience.
+</div>
+
+- 🚀 Improving Laravel and PHP development
+- 🗄️ Learning more about SQL and database management
+- 📱 Exploring Android application development
+- 🎨 Improving UI/UX and frontend design
+- ⚡ Writing cleaner and more organized code
+
+---
+
+<div align="center">
+
+## ✦ FEATURED PROJECTS ✦
+
+*Some of my academic and personal development projects*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 👟 Ursole PH
+
 **E-commerce Website**
 
-A footwear shopping website featuring product browsing, shopping carts, checkout, and order management.
+A footwear shopping website featuring:
+
+- Product browsing
+- Shopping cart
+- Checkout system
+- Order management
+- Admin dashboard
+
+</td>
+<td width="50%" valign="top">
 
 ### 🛡️ Apex Tactical Supply
+
 **E-commerce Website**
 
-An online store project with product categories, user accounts, shopping functionality, and admin management.
+An online store project featuring:
+
+- Product categories
+- User accounts
+- Shopping functionality
+- Product management
+- Admin features
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🕒 ChronosCare
+
+**Android Application**
+
+A mobile application project focused on providing a useful and accessible application experience.
+
+</td>
+<td width="50%" valign="top">
 
 ### 🎓 University LMS
+
 **Laravel Web Application**
 
 A learning management system designed to support online academic activities and student learning.
 
----
+</td>
+</tr>
+</table>
 
-## 📊 GitHub Statistics
+---
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=LeONoriel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github"/>
+## ✦ BEYOND THE CODE ✦
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeONoriel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+*Things I enjoy outside programming*
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🎮
+**Gaming**
+
+PC & Mobile Games
+
+</td>
+<td align="center" width="25%">
+
+### 💻
+**Coding**
+
+Building Projects
+
+</td>
+<td align="center" width="25%">
+
+### 🎨
+**Designing**
+
+UI & Interfaces
+
+</td>
+<td align="center" width="25%">
+
+### 🔍
+**Exploring**
+
+New Technology
+
+</td>
+</tr>
+</table>
+
+**Other interests**
+
+- PC hardware and computer technology
+- Software troubleshooting
+- Web and mobile applications
+- Learning new programming tools
+- Story-driven games and gaming experiences
+
+---
+
+<div align="center">
+
+## ✦ GITHUB ANALYTICS ✦
+
+*My coding activity and development journey*
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090f&title_color=c4b5fd&icon_color=a78bfa&text_color=e4e4e7&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090f&title_color=c4b5fd&text_color=e4e4e7"/>
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=LeoNoriel&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
+## ✦ CONTRIBUTION STREAK ✦
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=09090f&ring=a78bfa&fire=c4b5fd&currStreakLabel=c4b5fd" width="80%"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=LeONoriel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4"/>
+## ✦ GITHUB TROPHIES ✦
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=4" width="100%"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeONoriel&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&custom_title=My%20Contribution%20Activity"/>
+## ✦ CONTRIBUTION ACTIVITY ✦
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=09090f&color=c4b5fd&line=7c3aed&point=ffffff&area=true&hide_border=true&custom_title=My%20Development%20Activity" width="100%"/>
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
-
 <div align="center">
 
-<a href="https://github.com/LeONoriel">
+## ✦ LET'S CONNECT ✦
+
+<a href="https://github.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:norielnevado04@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+<br/><br/>
 
----
+**Thanks for stopping by! 💜**
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=450&lines=Keep+Learning.;Keep+Building.;Keep+Improving."/>
 
-### 💜 Thanks for visiting my profile!
+*One step at a time. One line of code at a time.*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=450&lines=Keep+Learning.;Keep+Building.;Keep+Growing."/>
-
-*"Great things are built one line of code at a time."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:432874,100:0d1117&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,45:432874,100:09090f&height=140&section=footer&animation=fadeIn"/>
 
 </div>
