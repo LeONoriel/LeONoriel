@@ -246,61 +246,13 @@ New Technology
 
 <div align="center">
 
-## ✦ GITHUB ANALYTICS ✦
-
-*My coding activity and development journey*
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090f&title_color=c4b5fd&icon_color=a78bfa&text_color=e4e4e7&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090f&title_color=c4b5fd&text_color=e4e4e7"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ✦ CONTRIBUTION STREAK ✦
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=09090f&ring=a78bfa&fire=c4b5fd&currStreakLabel=c4b5fd" width="80%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ✦ GITHUB TROPHIES ✦
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=4" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ✦ CONTRIBUTION ACTIVITY ✦
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=09090f&color=c4b5fd&line=7c3aed&point=ffffff&area=true&hide_border=true&custom_title=My%20Development%20Activity" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
 ## ✦ LET'S CONNECT ✦
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/LeONoriel">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:norielnevado04@gmail.com">
 <img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
