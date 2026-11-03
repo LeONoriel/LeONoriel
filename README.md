@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=LeONoriel&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ## 👋 About Me
 
-Hi! I'm **LeOMArk Nevado**, an Information Technology student from the Philippines 🇵🇭.
+Hi! I'm **LeONoriel**, an Information Technology student from the Philippines 🇵🇭.
 
 I'm interested in programming, software development, and creating applications that are both useful and user-friendly.
 
@@ -138,9 +138,9 @@ A learning management system designed to support online academic activities and 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=LeONoriel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeONoriel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
 
 </div>
 
@@ -160,7 +160,7 @@ A learning management system designed to support online academic activities and 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=LeONoriel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4"/>
 
 </div>
 
@@ -170,7 +170,7 @@ A learning management system designed to support online academic activities and 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&custom_title=My%20Contribution%20Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeONoriel&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&custom_title=My%20Contribution%20Activity"/>
 
 </div>
 
@@ -180,15 +180,11 @@ A learning management system designed to support online academic activities and 
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/LeONoriel">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:norielnevado04@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
