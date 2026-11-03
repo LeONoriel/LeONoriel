@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **LeOMArk Nevado**, an Information Technology student from the Philippines 🇵🇭.
+Hi! I'm **LeONoriel**, an Information Technology student from the Philippines 🇵🇭.
 
 I'm passionate about programming, software development, and creating useful applications. I enjoy exploring different technologies, experimenting with ideas, and building projects that help me improve as a developer.
 
